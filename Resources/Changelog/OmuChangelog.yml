@@ -1110,3 +1110,9 @@ Entries:
       message: Fixed trait weight requirement so it uses the correct calculation
   id: 130
   time: '2025-11-08T17:41:10.0000000+00:00'
+- author: Richard Blonski
+  changes:
+    - type: Add
+      message: Goob Upstream from 31 Oct till 7 Nov, read Changelogs in-game!
+  id: 131
+  time: '2025-11-08T23:47:02.0000000+00:00'
