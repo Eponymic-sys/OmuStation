@@ -151,7 +151,7 @@
       - !type:PlaySoundEffect
         sound: /Audio/Effects/Chemistry/bubbles.ogg
       - !type:AdjustReagent
-        reagent: XenobioGenderFluid
+        reagent: JuiceThatMakesYouWeh # Omu, No genderfluid
         amount: 5
   - type: Tag
     tags:
