@@ -1639,3 +1639,13 @@ Entries:
       message: resin breaking sound effects changed
   id: 199
   time: '2026-01-01T03:42:56.0000000+00:00'
+- author: SirCannonFodder
+  changes:
+    - type: Add
+      message: >-
+        Envirosuits, are now certificated Biosuits. Plasmamen rejoice, all two
+        of you!
+    - type: Fix
+      message: Virologists Plasmaman now have the envirosuits in their loadout.
+  id: 200
+  time: '2026-01-01T14:12:13.0000000+00:00'
