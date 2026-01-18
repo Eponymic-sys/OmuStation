@@ -1851,3 +1851,9 @@ Entries:
       message: Guidebook for devil is now readable.
   id: 230
   time: '2026-01-18T20:46:21.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Tweak
+      message: Plasmamen can have anything on their suit slot now
+  id: 231
+  time: '2026-01-18T20:54:41.0000000+00:00'
