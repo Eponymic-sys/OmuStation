@@ -61,6 +61,22 @@
     - HeadTop
     - HeadSide
   - type: FaceHuggerBlocker
+##OMU Start
+  - type: Storage
+    grid:
+    - 0,0,0,1
+  - type: UserInterface
+    interfaces:
+      enum.StorageUiKey.Key:
+        type: StorageBoundUserInterface
+  - type: ContainerContainer
+    containers:
+      storagebase: !type:Container
+  - type: PilotedClothing
+    pilotWhitelist:
+      components:
+        - PAI
+##OMU End
 
 - type: entity
   abstract: true
@@ -136,7 +152,7 @@
       - HeadTop
       - HeadSide
   #THIS WILL BE REPLACED WITH MODULE ↓↓
-  # Omu start, Fix modsuit light 
+  # Omu start, Fix modsuit light
   - type: ToggleableVisuals
     spriteLayer: light
   - type: ItemTogglePointLight
@@ -253,7 +269,7 @@
       - HeadTop
       - HeadSide
   #THIS WILL BE REPLACED WITH MODULE ↓↓
-  # Omu start, Fix modsuit light 
+  # Omu start, Fix modsuit light
   - type: ToggleableVisuals
     spriteLayer: light
   - type: ItemTogglePointLight
@@ -356,7 +372,7 @@
       heatingCoefficient: 0.01
       coolingCoefficient: 0.01
   #THIS WILL BE REPLACED WITH MODULE ↓↓
-  # Omu start, Fix modsuit light 
+  # Omu start, Fix modsuit light
   - type: ToggleableVisuals
     spriteLayer: light
   - type: ItemTogglePointLight
@@ -442,7 +458,7 @@
       heatingCoefficient: 0.01
       coolingCoefficient: 0.01
   #THIS WILL BE REPLACED WITH MODULE ↓↓
-  # Omu start, Fix modsuit light 
+  # Omu start, Fix modsuit light
   - type: ToggleableVisuals
     spriteLayer: light
   - type: ItemTogglePointLight
@@ -532,7 +548,7 @@
       heatingCoefficient: 0.01
       coolingCoefficient: 0.01
   #THIS WILL BE REPLACED WITH MODULE ↓↓
-  # Omu start, Fix modsuit light 
+  # Omu start, Fix modsuit light
   - type: ToggleableVisuals
     spriteLayer: light
   - type: ItemTogglePointLight
@@ -637,7 +653,7 @@
       - HeadTop
       - HeadSide
   #THIS WILL BE REPLACED WITH MODULE ↓↓
-  # Omu start, Fix modsuit light 
+  # Omu start, Fix modsuit light
   - type: ToggleableVisuals
     spriteLayer: light
   - type: ItemTogglePointLight
@@ -733,7 +749,7 @@
       heatingCoefficient: 0.01
       coolingCoefficient: 0.01
   #THIS WILL BE REPLACED WITH MODULE ↓↓
-  # Omu start, Fix modsuit light 
+  # Omu start, Fix modsuit light
   - type: ToggleableVisuals
     spriteLayer: light
   - type: ItemTogglePointLight
@@ -844,7 +860,7 @@
       - HeadTop
       - HeadSide
   #THIS WILL BE REPLACED WITH MODULE ↓↓
-  # Omu start, Fix modsuit light 
+  # Omu start, Fix modsuit light
   - type: ToggleableVisuals
     spriteLayer: light
   - type: ItemTogglePointLight
