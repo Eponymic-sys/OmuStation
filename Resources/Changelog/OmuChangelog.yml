@@ -1875,3 +1875,9 @@ Entries:
       message: Added Dispace Lobby Art
   id: 234
   time: '2026-01-29T09:10:05.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: Upstream merge
+  id: 235
+  time: '2026-02-01T14:11:02.0000000+00:00'
