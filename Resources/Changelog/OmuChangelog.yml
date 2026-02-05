@@ -1899,3 +1899,13 @@ Entries:
       message: Harpy and Xelthia minimum sizes raised
   id: 237
   time: '2026-02-05T16:13:00.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Tweak
+      message: NY-6 Grognard unpowered damage lowered (20 slash -> 12)
+    - type: Tweak
+      message: >-
+        NY-6 Grognard shock mode damage lowered (15 heat, 5 slash -> 10 heat, 5
+        slash)
+  id: 238
+  time: '2026-02-05T19:12:02.0000000+00:00'
