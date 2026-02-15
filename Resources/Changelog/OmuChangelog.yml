@@ -1951,3 +1951,11 @@ Entries:
       message: Abductor walls are no longer unbreakable.
   id: 245
   time: '2026-02-15T21:07:28.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: >-
+        Heirophant's club is now classed as magical contraband, and no longer
+        fits in bags.
+  id: 246
+  time: '2026-02-15T21:09:42.0000000+00:00'
