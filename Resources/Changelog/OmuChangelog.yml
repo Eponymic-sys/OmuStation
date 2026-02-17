@@ -2012,3 +2012,9 @@ Entries:
         gloves and jackboots they can spawn with.
   id: 251
   time: '2026-02-16T19:25:30.0000000+00:00'
+- author: ArtemisYK
+  changes:
+    - type: Fix
+      message: Salvage Mantle-beast Mantle on Shaft-Miner
+  id: 252
+  time: '2026-02-17T08:51:47.0000000+00:00'
